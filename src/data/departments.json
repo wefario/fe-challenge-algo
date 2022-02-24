@@ -1,0 +1,62 @@
+[
+   {
+      "id":"199af460-44ef-46fb-b426-0112a2735800",
+      "name":"Marketing",
+      "company_id":"d3c9cbe2-0056-403c-84b2-f06816dfd7ec"
+   },
+   {
+      "id":"6b6ce6a7-cdc8-4b73-a2a3-3740a4367bf6",
+      "name":"Research and Development",
+      "company_id":"4516ef92-8a1b-4ea6-bd90-748e0c355be3"
+   },
+   {
+      "id":"057d498b-17ee-4ec1-a703-deac6dc991b9",
+      "name":"Services",
+      "company_id":"37647daf-dc37-4da8-a269-cd9b62a9c8fe"
+   },
+   {
+      "id":"8ad34c81-abe0-4265-ac01-07a289c75d5d",
+      "name":"Training",
+      "company_id":"0fd14ec4-61a4-48be-b8d0-3f3c4943bd4d"
+   },
+   {
+      "id":"cd16480b-5bc0-444a-a53b-a1c08d148bfc",
+      "name":"Sales",
+      "company_id":"bb534f95-94a9-4fe8-8fbb-7552531d561e"
+   },
+   {
+      "id":"f440f9a6-41c7-43c1-b9d8-2173d712afeb",
+      "name":"Engineering",
+      "company_id":"0bb2555d-2654-4699-8710-d2ae9f14dc8d"
+   },
+   {
+      "id":"3c85caaa-2492-41b5-856d-25e98728205a",
+      "name":"Product Management",
+      "company_id":"9aaf8058-456e-4337-a777-c9a5a53cbaba"
+   },
+   {
+      "id":"f6cab921-6721-43e7-a41e-a51a60a6fa5a",
+      "name":"Legal",
+      "company_id":"d3c9cbe2-0056-403c-84b2-f06816dfd7ec"
+   },
+   {
+      "id":"75d6f6cc-90a2-40bc-8e25-424f644ce441",
+      "name":"Business Development",
+      "company_id":"b161c846-4e3d-4f45-b970-7e4298d58ed3"
+   },
+   {
+      "id":"25a08827-d00f-43d4-bf5a-92bcd5c8a6d8",
+      "name":"Human Resources",
+      "company_id":"0207719a-c64e-48bf-9f05-1c6b1e1a3e7f"
+   },
+   {
+      "id":"644bc9f2-adaa-4a4c-9c79-789a0e87f545",
+      "name":"Accounting",
+      "company_id":"4516ef92-8a1b-4ea6-bd90-748e0c355be3"
+   },
+   {
+      "id":"e42d1b6d-225d-4c6a-962e-dc97852c7d25",
+      "name":"Support",
+      "company_id":"37647daf-dc37-4da8-a269-cd9b62a9c8fe"
+   }
+]
