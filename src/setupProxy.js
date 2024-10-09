@@ -4,7 +4,8 @@ const { createProxyMiddleware } = require('http-proxy-middleware')
 module.exports = (app) => {
   const apiProxyConfig = {
     pathRewrite: (path) => path.replace('/api', ''),
-    target: 'https://619cf1e868ebaa001753ce05.mockapi.io/',
+    target:
+      'https://api.mockfly.dev/mocks/c9842c6c-cf70-4df4-b471-b645ea9048c1/',
     secure: true,
     changeOrigin: true,
   }

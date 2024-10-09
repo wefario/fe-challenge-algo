@@ -73,9 +73,9 @@ Let's say we have the employee with `id=20`, `department_id=5`, and the departme
 2. (O) Instead of getting the data from JSON, let's try to fetch the Employees flat list, Departments flat list, Companies flat list
    Endpoints (they are already set up through Proxy middleware in the project in `setupProxy.js`, so they are relative to localhost):
 
-   - Employees: `/api/v1/employees`
-   - Departments: `/api/v1/departments`
-   - Companies: `/api/v1/companies`
+   - Employees: `/api/employees`
+   - Departments: `/api/departments`
+   - Companies: `/api/companies`
 
 3. (O) Represent the hierarchy in a interactive UI (preferably a collapsible table). The changes should be applied in local state.
 
